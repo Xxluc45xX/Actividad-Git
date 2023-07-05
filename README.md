@@ -1,5 +1,5 @@
 # Actividad-Git
-#0969DAActividad Git#0969DA
+Actividad Git
 
 
 **1.Investigación básica de Git:**
